@@ -1,3 +1,5 @@
+
+![Digikala.com](./pic/3.png)
 # Description
 
 [Digikala](https://www.digikala.com/) online market has recently published some open source data in various categories.
@@ -61,4 +63,7 @@ https://www.depends-on-the-definition.com/guide-to-word-vectors-with-gensim-and-
 LSTM:
 
 https://medium.com/free-code-camp/applied-introduction-to-lstms-for-text-generation-380158b29fb3
+
+
+
 
