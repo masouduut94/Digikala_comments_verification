@@ -1,7 +1,7 @@
 
 ![DigikalaNext](./pic/4.png)
 
-![DigikalaNext Open datasets Home page](./pic/2.jpg)
+![DigikalaNext Open datasets Home page](./pic/1.jpg)
 
 # Description
 
