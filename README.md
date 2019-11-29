@@ -1,5 +1,8 @@
 
 ![DigikalaNext](./pic/4.png)
+
+![DigikalaNext Open datasets Home page](./pic/2.jpg)
+
 # Description
 
 [Digikala](https://www.digikala.com/) online market has recently published some open source data in various categories.
@@ -24,7 +27,9 @@ Use these conda commands to install the packages in environment:
 
 ## Dataset
 
-I got mini-version of digikala customers comment dataset from www.quera.ir 
+![DigikalaNext Open datasets Home page](./pic/2.jpg)
+
+I used mini-version of digikala customers comment dataset from www.quera.ir 
 which was uploaded for a AI competetion on 1398/08/16 and can be found [here](https://quera.ir/course/assignments/10668/problems).
 
 (Of course Needs authentication).
