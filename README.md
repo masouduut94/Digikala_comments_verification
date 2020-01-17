@@ -7,13 +7,13 @@
 
 [Digikala](https://www.digikala.com/) online market has recently published some open source data in various categories.
 
-Since I always wanted to do some NLP project, so I thought of some useful tutorials in python for newcomers.
+Since I always wanted to do some NLP project, then I thought of some useful tutorials in python for newcomers.
 I really hope this could be useful for you guys.
 
 I still keep updating the package and also will share the link of video and article related to this post soon!
 
 ## If you like the content
-If you like the content, follow me on LinkedIn and upvote my data science skills in [My LinkedIn Account](https://www.linkedin.com/in/masoud-masoumi-moghadam/)
+If you like the content, just add a star. :sunglasses:
 
 ### Before you run models
 
