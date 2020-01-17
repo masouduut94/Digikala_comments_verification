@@ -13,7 +13,7 @@ I really hope this could be useful for you guys.
 I still keep updating the package and also will share the link of video and article related to this post soon!
 
 ## If you like the content
-If you like the content, just add a star. :sunglasses:
+If you like the content, just add a star. :smirk:
 
 ### Before you run models
 
@@ -29,45 +29,50 @@ Use these conda commands to install the packages in environment:
 
 ![DigikalaNext Open datasets Home page](./pic/2.jpg)
 
-I used mini-version of digikala customers comment dataset from www.quera.ir 
-which was uploaded for a AI competetion on 1398/08/16 and can be found [here](https://quera.ir/course/assignments/10668/problems).
+I used mini-version of digikala customers comment dataset from here
 
-(Of course Needs authentication).
+:link: www.quera.ir 
+
+which was uploaded for a AI competetion on 1398/08/16 and can be found here.
+
+:link: [dataset download](https://quera.ir/course/assignments/10668/problems).
+
+(Of course Needs authentication :sunglasses:).
 
 Full version available in these links: 
 
-[source 1](https://www.digikala.com/opendata/#section-4)
+:link: [source 1](https://www.digikala.com/opendata/#section-4)
 
-[Source 2](https://www.digikala.com/static/files/46688ac5.xlsx)
+:link: [Source 2](https://www.digikala.com/static/files/46688ac5.xlsx)
 
 
 ## For more studies:
 
 for text preprocessing:
 
-https://www.kaggle.com/sudalairajkumar/getting-started-with-text-preprocessing
-https://www.kaggle.com/kernels/scriptcontent/19201884/download
+:link: https://www.kaggle.com/sudalairajkumar/getting-started-with-text-preprocessing
+:link: https://www.kaggle.com/kernels/scriptcontent/19201884/download
 
 tfidf:
 
-https://towardsdatascience.com/multi-label-text-classification-with-scikit-learn-30714b7819c5
-https://kavita-ganesan.com/tfidftransformer-tfidfvectorizer-usage-differences/#.Xc3OG67ngRY
+:link: https://towardsdatascience.com/multi-label-text-classification-with-scikit-learn-30714b7819c5
+:link: https://kavita-ganesan.com/tfidftransformer-tfidfvectorizer-usage-differences/#.Xc3OG67ngRY
 
 basic word2vec:
 
-https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba
+:link: https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba
 
 gensim:
 
-https://towardsdatascience.com/machine-learning-word-embedding-sentiment-classification-using-keras-b83c28087456
+:link: https://towardsdatascience.com/machine-learning-word-embedding-sentiment-classification-using-keras-b83c28087456
 
 keras with gensim:
 
-https://www.depends-on-the-definition.com/guide-to-word-vectors-with-gensim-and-keras/
+:link: https://www.depends-on-the-definition.com/guide-to-word-vectors-with-gensim-and-keras/
 
 LSTM:
 
-https://medium.com/free-code-camp/applied-introduction-to-lstms-for-text-generation-380158b29fb3
+:link: https://medium.com/free-code-camp/applied-introduction-to-lstms-for-text-generation-380158b29fb3
 
 
 
